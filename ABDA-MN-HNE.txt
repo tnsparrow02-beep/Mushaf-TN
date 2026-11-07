@@ -1,0 +1,14 @@
+ABDA MN HNE - Mushaf v3.1
+
+Tari9a 1 (el as-hal, Windows):
+  1. Fok el zip fi dossier.
+  2. Fi github.com e3mel repo jdid FARGH (bla README).
+  3. Double-click 3al RAFA3-LEL-GITHUB.bat, wattih el lien, w kammel.
+  4. Fel repo 5toui tab Actions: el APK yetbena wa7dou.
+  5. Nazzel el artifact "mushaf-apk" (fih app-debug.apk) w installih 3al telephone.
+
+Tari9a 2 (men el site):
+  Fel repo: Add file > Upload files, jarr kol el fichiers W dossier .github, w Commit.
+
+Ken el workflow ma yekhdemch wa7dou: Actions > Build APK (debug) > Run workflow.
+Lel nashr 3al Google Play: chouf PUBLISH.md.
